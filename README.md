@@ -23,7 +23,7 @@
 </li>
 <li> 
 <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" />
-<img src="https://img.shields.io/badge/-Sping-05122A?style=flat&logo=spring" />
+<img src="https://img.shields.io/badge/-Spingboot-05122A?style=flat&logo=springboot" />
 </li>
 <li> 
 <img src="https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=Mysql" />
