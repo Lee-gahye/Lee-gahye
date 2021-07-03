@@ -10,8 +10,6 @@
 
 <li> 
 <img src="https://img.shields.io/badge/-aws-05122A?style=flat&logo=amazon" />  
-<img src="https://img.shields.io/badge/-Golang-05122A?style=flat&logo=Go" />
-<img src="https://img.shields.io/badge/-django-05122A?style=flat&logo=django" />
 <img src="https://img.shields.io/badge/-react-05122A?style=flat&logo=react" />
 </li>
 
