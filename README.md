@@ -50,7 +50,7 @@
        
         
 ### 📫 &nbsp; Contact
-<a href="mailto:ortrortr@gmail.com"><img src="https://img.shields.io/badge/-ortrortr@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:ortrortr@naver.com"><img src="https://img.shields.io/badge/-ortrortr@naver.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 <!---
 Lee-gahye/Lee-gahye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
