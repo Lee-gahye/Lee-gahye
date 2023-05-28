@@ -34,6 +34,12 @@
 
    
 
+### 👀 &nbsp; Interested
+
+<li> 
+<img src="https://img.shields.io/badge/-emotion-05122A?style=flat&logo=emotion" />  
+<img src="https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=Next.js" />
+</li>
 
        
         
