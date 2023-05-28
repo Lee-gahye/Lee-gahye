@@ -1,9 +1,8 @@
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> &nbsp;Hi, I'm 컴벗 
 
 
-<br><img src="https://notion-emojis.s3-us-west-2.amazonaws.com/v0/svg-twitter/2728.svg" height="15" width="15"/> 풀스택 개발자를 향해!
+<br><img src="https://notion-emojis.s3-us-west-2.amazonaws.com/v0/svg-twitter/2728.svg" height="15" width="15"/> 전문 프론트엔드 개발자를 향해!
 <br><img src="https://notion-emojis.s3-us-west-2.amazonaws.com/v0/svg-twitter/2728.svg" height="15" width="15"/> 시간이 많이 소요되더라도 끝까지 해결하려는 의지!
-<br><img src="https://notion-emojis.s3-us-west-2.amazonaws.com/v0/svg-twitter/2728.svg" height="15" width="15"/> 대용량 트래픽에 대한 욕심!
 <br><img src="https://notion-emojis.s3-us-west-2.amazonaws.com/v0/svg-twitter/2728.svg" height="15" width="15"/> 아름다운 아키텍처에 대한 로망!
 
 ### 👀 &nbsp; Interested
