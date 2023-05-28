@@ -2,44 +2,33 @@
 
 
 <br><img src="https://notion-emojis.s3-us-west-2.amazonaws.com/v0/svg-twitter/2728.svg" height="15" width="15"/> 전문 프론트엔드 개발자를 향해!
-<br><img src="https://notion-emojis.s3-us-west-2.amazonaws.com/v0/svg-twitter/2728.svg" height="15" width="15"/> 시간이 많이 소요되더라도 끝까지 해결하려는 의지!
 <br><img src="https://notion-emojis.s3-us-west-2.amazonaws.com/v0/svg-twitter/2728.svg" height="15" width="15"/> 아름다운 아키텍처에 대한 로망!
+<br><img src="https://notion-emojis.s3-us-west-2.amazonaws.com/v0/svg-twitter/2728.svg" height="15" width="15"/> 시간이 많이 소요되더라도 끝까지 해결하려는 의지!
 
-### 👀 &nbsp; Interested
-
-<li> 
-<img src="https://img.shields.io/badge/-aws-05122A?style=flat&logo=amazon" />  
-<img src="https://img.shields.io/badge/-react-05122A?style=flat&logo=react" />
-</li>
 
 ### 🌱 &nbsp; Skills
 
 <li> 
-<img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B" />  
-<img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java" />
+<img src="https://img.shields.io/badge/-react-05122A?style=flat&logo=react" />
+</li>
+<li> 
+<img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript" />
 <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript" />
-<img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python" />
 </li>
 <li> 
-<img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" />
-<img src="https://img.shields.io/badge/-Spingboot-05122A?style=flat&logo=springboot" />
+<img src="https://img.shields.io/badge/-reactquery-05122A?style=flat&logo=reactquery" />
+   <img src="https://img.shields.io/badge/-Recoil-05122A?style=flat&logo=Recoil" />
+</li>
+<li>
+<img src="https://img.shields.io/badge/-css-05122A?style=flat&logo=css" />
+<img src="https://img.shields.io/badge/-scss-05122A?style=flat&logo=scss" />
 </li>
 <li> 
-<img src="https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=Mysql" />
-<img src="https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=Oracle" />
-<img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB" />
-<img src="https://img.shields.io/badge/-ClickHouse-05122A?style=flat&logo=ClickHouse" />
-</li>
-<li> 
-<img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" />
-<img src="https://img.shields.io/badge/-ElasticSearch-05122A?style=flat&logo=ElasticSearch" />
-<img src="https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=Apache" />
-</li>
-<li> 
-<img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git" />
 <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=GitHub" />
 </li>
 <li>
+<img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" />
+<img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB" />
 <img src="https://img.shields.io/badge/-PhotoShop-05122A?style=flat&logo=rstudio" />
 </li>
 
